@@ -22,8 +22,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_goneMarginTop="50dp" />
 
-    <!-- Tên ứng dụng -->
-
     <!-- Nhập email -->
     <TextView
         android:id="@+id/app_name"
